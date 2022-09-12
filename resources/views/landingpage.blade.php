@@ -8,7 +8,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>sungla</title>
+      <title>NEXUS</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -46,7 +46,7 @@
                      <div class="full">
                         <div class="center-desk">
                            <div class="logo">
-                              <a href="index.html"><img src="images/logo.png" alt="#" /></a>
+                              <a href="index.html"><img src="images/NEXUS.png" alt="#" /></a>
                            </div>
                         </div>
                      </div>
@@ -150,7 +150,7 @@
             <div class="row d_flex">
                <div class="col-md-5">
                   <div class="about_img">
-                     <figure><img src="images/about_img.png" alt="#"/></figure>
+                     <figure><img src="images/TLALOC.png" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-7">
@@ -181,58 +181,9 @@
             <div class="row">
                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                   <div class="glasses_box">
-                     <figure><img src="images/glass1.png" alt="#"/></figure>
-                     <h3><span class="blu">$</span>50</h3>
-                     <p>Sunglasses</p>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="glasses_box">
-                     <figure><img src="images/glass2.png" alt="#"/></figure>
-                     <h3><span class="blu">$</span>50</h3>
-                     <p>Sunglasses</p>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="glasses_box">
-                     <figure><img src="images/glass3.png" alt="#"/></figure>
-                     <h3><span class="blu">$</span>50</h3>
-                     <p>Sunglasses</p>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="glasses_box">
-                     <figure><img src="images/glass4.png" alt="#"/></figure>
-                     <h3><span class="blu">$</span>50</h3>
-                     <p>Sunglasses</p>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="glasses_box">
-                     <figure><img src="images/glass5.png" alt="#"/></figure>
-                     <h3><span class="blu">$</span>50</h3>
-                     <p>Sunglasses</p>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="glasses_box">
-                     <figure><img src="images/glass6.png" alt="#"/></figure>
-                     <h3><span class="blu">$</span>50</h3>
-                     <p>Sunglasses</p>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="glasses_box">
-                     <figure><img src="images/glass7.png" alt="#"/></figure>
-                     <h3><span class="blu">$</span>50</h3>
-                     <p>Sunglasses</p>
-                  </div>
-               </div>
-               <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="glasses_box">
-                     <figure><img src="images/glass8.png" alt="#"/></figure>
-                     <h3><span class="blu">$</span>50</h3>
-                     <p>Sunglasses</p>
+                     <figure><img src="images/TLALOC.png" alt="#"/></figure>
+                     <h3><span class="blu">$</span>200</h3>
+                     <p>Tlaloc</p>
                   </div>
                </div>
                <div class="col-md-12">
@@ -248,14 +199,20 @@
             <div class="row">
                <div class="col-md-5">
                   <div  class="shop_img">
-                     <figure><img src="images/shop_img.png" alt="#"/></figure>
+                     <figure><img src="images/TLALOC.png" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-7 padding_right0">
                   <div class="max_width">
                      <div class="titlepage">
                         <h2>Pieza más vendida</h2>
-                        <p>Tlaloc o más conocido en las tribus aztecas "Dios de la Lluvia"</p>
+                        <p>Tlaloc o más conocido en las tribus aztecas "Dios de la Lluvia y del Relámpago" Se le invoca para agradecer su intervención cuando las cosechas eran exitosas en aquellas épocas donde la sequía se apoderaba de los campos.
+
+Para los aztecas este dios era el rey de los fenómenos atmosféricos y el espíritu de las montañas, así que su poder era digno de grandes honores y sacrificios tanto de animales como de seres humanos pues la comunidad dependía del buen desempeño de estos para la prosperidad de su agricultura.
+
+Además se cuenta que Tláloc es el esposo de la diosa Chalchiuhtlicue a quien se reconoce como deidad del agua y del amor, la belleza y las aguas de ríos, lagos, tormentas, mares, protectora de los navegantes y patrona del bautismo.
+
+Tláloc y Chalchiuhtlicue tuvieron muchos hijos a quienes se les llamaba tlalocas, que son las nubes del cielo.</p>
                         <a class="read_more" href="#">Shop Now</a>
                      </div>
                   </div>
@@ -388,9 +345,9 @@
                <div class="row">
                   <div class="col-md-8 offset-md-2">
                      <ul class="location_icon">
-                        <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i></a><br> Location</li>
-                        <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a><br> +01 1234567890</li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a><br> demo@gmail.com</li>
+                        <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i></a><br> Ubiación</li>
+                        <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i></a><br> +52 22222222</li>
+                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a><br> prueba@gmail.com</li>
                      </ul>
                   </div>
                </div>
